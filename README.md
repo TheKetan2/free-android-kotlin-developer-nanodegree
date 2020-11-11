@@ -2,7 +2,7 @@
 
 ## Free course material for Udacity's Android Kotlin Developer Nanodegree
 
-[![!](udacity.jpg)](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
+[![!](udacityimg.jpg)](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
 
 Syllabus ▶
 
