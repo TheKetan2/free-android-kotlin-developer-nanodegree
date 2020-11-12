@@ -5,8 +5,10 @@
 [![!](udacityimg.jpg)](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
 
 Syllabus ▶
-|---|---|
-| - Build your First App- Layouts- App Navigation- Activity and Fragment Lifecycle- App Architecture (UI Layer) - Recycler View- Connect to the Internet- Behind the Scenes- Designing for Everyone| [Course 1 and Course 2 Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) [Codelabs](https://developer.android.com/codelabs/advanced-android-kotlin-training-welcome#0)|
+
+| Syllabus                                                                                                                                                                                          | Links                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Build your First App- Layouts- App Navigation- Activity and Fragment Lifecycle- App Architecture (UI Layer) - Recycler View- Connect to the Internet- Behind the Scenes- Designing for Everyone | [Course 1 and Course 2 Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) [Codelabs](https://developer.android.com/codelabs/advanced-android-kotlin-training-welcome#0) |
 
 ## Course 3
 
