@@ -4,41 +4,6 @@
 
 [![!](udacityimg.jpg)](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
 
-Syllabus ▶
-
-## Course 1
-
-- Build your First App
-- Layouts
-- App Navigation
-- Activity and Fragment Lifecycle
-- App Architecture (UI Layer)
-
-## Course 2
-
-- Recycler View</br>
-- Connect to the Internet</br>
-- Behind the Scenes</br>
-- Designing for Everyone</br>
-
-## Course 3
-
-- Using Notifications
-- Creating Custom Views
-- Drawing on Canvas Objects
-- Clipping Canvas Objects
-- Android Property Animations
-- Using Motion Layout to Animate Android Apps
-
-## Course 4
-
-- Wandering in Google Maps with Kotlin
-- Virtual Treasure Hunt with Geofences
-- Testing: Basics
-- Introduction to Test Doubles and Dependency Injection
-- Survey of Advanced Testing Topics
-- Implementing Login on Android with FirebaseUI
-
 | Syllabus                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Links                                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Course 1** </br>- Build your First App</br>- Layouts</br>- App Navigation</br>- Activity and Fragment Lifecycle</br>- App Architecture (UI Layer)</br></br> **Course 2** </br>- Recycler View</br>- Connect to the Internet</br>- Behind the Scenes</br>- Designing for Everyone</br>                                                                                                                                                                                                                         | [1. Udacity: Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)</br></br>[2. Codelabs: Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) |
